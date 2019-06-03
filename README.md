@@ -10,4 +10,5 @@ Gifted.
 * [day 1: Apr 15, 2019](day01.nb)
 * [day 2: Apr 29, 2019](day02.nb)
 * [day 3: May 27, 2019](day03.nb)
-# [day 4: Jun 3, 2019](day04.nb)
+* [day 4: Jun 3, 2019](day04.nb)
+* [day 5: Jun 17, 2019](day05.nb)
